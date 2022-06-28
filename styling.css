@@ -41,3 +41,15 @@ html{
     padding: 11px;
     display: none;
 }
+
+#question{
+    width: 650px;
+    height: 250px;
+    background-color: #9DA0EA;
+    margin: 50px auto 10px auto;
+    font-size: 180px;
+    text-align: center;
+    font-family: cursive,sans-serif;
+    color: black;    
+}
+

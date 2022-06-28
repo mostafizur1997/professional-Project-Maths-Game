@@ -30,12 +30,14 @@ html{
     background-color: #42e252;
     color: white;
     padding: 11px;
+    display: none;
 }
 
 #wrong{
     position: absolute;
-    left: 350px;
+    left: 250px;
     background-color: #42e252;
     color: white;
     padding: 11px;
+    display: none;
 }

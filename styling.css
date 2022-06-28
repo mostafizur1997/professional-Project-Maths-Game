@@ -67,7 +67,14 @@ html{
 }
 #choices{
     width: 450px;
-    height: 250px;
+    height: 100px;
     margin: 5px auto;
+}
+
+.box{
+    width: 85px;
+    height: 85px;
+    
+
 }
 

@@ -11,10 +11,15 @@ html{
     margin: 100px auto;
     border-radius: 10px;
     box-shadow: 0px 4px 4px 0px #009de4;
-
+    position: relative;    
 }
 
 #score{
     background-color: #F1FF92;
-    color: ;
+    color: #888E5F;
+    padding: 11px;
+    position: absolute;
+    left: 700px;
+    box-shadow: 0px 4px 0px #9da853;
+
 }

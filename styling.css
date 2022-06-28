@@ -75,10 +75,22 @@ html{
 .box{
     width: 120px;
     height: 120px;
-    background-color: red;
+    background-color: white;
     float: left;
     margin-right: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 4px rgba(0,0,0,0.2);
+    text-align: center;
+    line-height: 90px;
+    font-size: 40px;
+
+    
 }
 
+.box:hover{
+    background-color: #009de4;
+    
+}
 
 

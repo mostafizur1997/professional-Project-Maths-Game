@@ -65,3 +65,9 @@ html{
     box-shadow: 0px 4px #8153a8;
 
 }
+#choices{
+    width: 450px;
+    height: 250px;
+    margin: 5px auto;
+}
+

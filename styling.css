@@ -31,3 +31,11 @@ html{
     color: white;
     padding: 11px;
 }
+
+#wrong{
+    position: absolute;
+    left: 350px;
+    background-color: #42e252;
+    color: white;
+    padding: 11px;
+}

@@ -74,7 +74,9 @@ html{
 .box{
     width: 85px;
     height: 85px;
-    
+    background-color: white;
+    float: left;
+
 
 }
 

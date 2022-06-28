@@ -4,7 +4,7 @@ html{
 }
 
 #container{
-    height: 500px;
+    height: 600px;
     width: 750px;
     background-color: #9DD2EA;
     padding: 30px;
@@ -66,17 +66,19 @@ html{
 
 }
 #choices{
-    width: 450px;
+    width: 650px;
     height: 100px;
-    margin: 5px auto;
+    margin: 10px auto;
+    
 }
 
 .box{
-    width: 85px;
-    height: 85px;
-    background-color: white;
+    width: 120px;
+    height: 120px;
+    background-color: red;
     float: left;
-
-
+    margin-right: 40px;
 }
+
+
 

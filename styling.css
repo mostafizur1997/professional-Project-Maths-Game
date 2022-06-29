@@ -125,12 +125,13 @@ html{
     width: 152px;
     padding: 10px;
     position: absolute;
-    top: 395px;
-    left: 400px;
+    top: 560px;
+    left: 600px;
     background-color: rgba(181,235,36,0.2);
     border-radius: 3px;
     box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
     display: none;
+    
 
 } 
 

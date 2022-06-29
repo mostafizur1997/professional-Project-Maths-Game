@@ -108,7 +108,17 @@ html{
 #box4{
     margin-right: 0;
 }
-    
+
+#startreset{
+    width: 100px;
+    background-color: rgba(255,255,255,0.5);
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 0px 4px rgba(0,0,0,0.2);
+    transition: all 0.2s;
+}
 
 
 
